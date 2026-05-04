@@ -19,7 +19,7 @@
 
 - 🌐 All of my projects are available at <b><a href="https://sashikasuraweera.com" target="_blank" rel="noopener noreferrer">sashikasuraweera.com</a></b>
 - ✍️ I regularly write articles on <b><a href="https://medium.com/desired-software-dev" target="_blank" rel="noopener noreferrer">medium.com/desired-software-dev</a></b>
-- 📦 I maintain <b><a href="https://www.npmjs.com/package/postal-code-checker" target="_blank" rel="noopener noreferrer"><code>postal-code-checker</code></a></b> on npm
+- 📦 I maintain <b><a href="https://www.npmjs.com/package/postal-code-checker" target="_blank" rel="noopener noreferrer"><code>postal-code-checker</code></a></b> and <b><a href="https://www.npmjs.com/package/currency-core" target="_blank" rel="noopener noreferrer"><code>currency-core</code></a></b> on npm
 - 💬 Ask me about **React, TypeScript, React Native, and Node.js**
 - 📫 Reach me at **sashiksu@outlook.com**
 
@@ -60,11 +60,3 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sashiksu&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashiksu&layout=compact&hide_border=true&cache_seconds=86400" alt="Top languages"/>
-</p>
